@@ -35,7 +35,14 @@ The second screen is where users can play, feed and clean their virtual pet. The
 - The last textview is a cleanliness textview. Cleanliness is already initialized to one hundred and it cannot be greater than one hundred and lesser than zero. When users click on feed, the value of cleanliness will not change; when users click on hunger, the value of cleanliness will not change and when users click on play button, the value of cleanliness will be decrease by 15. After that, if users click again on clean button, the value of cleanliness will be increase by 10.
 The images bellow will demonstrate you how Tamagotchi App look like.
  
-When users open Tamagotchi App they will see this screen, this image is the image of the welcome page and when users will click on Start button automatically the second screen will appear.    
+When users open Tamagotchi App they will see this screen, this image is the image of the welcome page and when users will click on Start button automatically the second screen will appear.  
+
+## EXAMPLE CODE
+
+`
+string name = string.empty;
+var listOfHumans = new List<string>();
+`
 
 
 
