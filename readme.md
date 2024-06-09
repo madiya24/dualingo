@@ -39,10 +39,10 @@ When users open Tamagotchi App they will see this screen, this image is the imag
 
 ## EXAMPLE CODE
 
-`
+```
 string name = string.empty;
 var listOfHumans = new List<string>();
-`
+```
 
 
 
