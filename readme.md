@@ -1,17 +1,19 @@
-
-REPPORT OF TAMAGOTCHI APP
+# REPPORT OF TAMAGOTCHI APP
     
-INTRODUCTION
+## INTRODUCTION
 This report aims to elucidate the purpose of the application HISTORY APP, providing a comprehensive overview of its functionality, its design considerations, and the utilization of GitHub and GitHub Actions.
 OVERVIEW OF TAMAGOTCHI APP
 Tamagotchi App is a mobile application, Tamagotchi App allows users to care for their virtual pet right on their smartphone or digital device instead of carrying around a physical toy. Just like the original toy, users need to feed, play with and take care of their virtual pet to ensure it stays happy and healthy. Tamagotchi App is a fun and nostalgic way to experience the joy of caring for a pet, but in a digital format.
-    PURPOSE OF TAMAGOTCHI APP
+
+## PURPOSE OF TAMAGOTCHI APP
 Tamagotchi App to offer users a playful and interactive way to experience the joy of nurturing a pet, without the need for a physical toy. Tamagotchi App aims to recreate the fun and responsibility of taking care of a pet, but in a digital format.
-    FEATURE OF TAMAGOTCHI APP
+
+## FEATURE OF TAMAGOTCHI APP
 Tamagotchi App have two screens, the first screen is a welcome page that leads users into the game and the second page is where the game is played.
 •	The first page has an image of dog and cat, the text “welcome to your virtual pet” and a button.
 •	The second page has the image of dog and cat, three textviews and three buttons. 
-FONCTIONALITY OF TAMAGITCHI APP 
+
+## FONCTIONALITY OF TAMAGITCHI APP 
 According the to feature of Tamagotchi App, Tamagotchi App has two screens. The welcome page shows a welcome message and leads users into the second screen and the welcome page is composed of a textview, an imageview and a button.
 •	The textview shows a welcome message into the game.
 •	The imageview shows the pet image of dog and cat.
@@ -45,7 +47,7 @@ https://youtu.be/5DH2-ERLCTU
 
 
 
-    THE DESIGN CONSIDERATION
+    ## THE DESIGN CONSIDERATION
 A design consideration plays a pivotal role in shaping the user experience and overall usability of the application. User interface (UI) designing an intuitive and visually appealing interface that enhances user interaction.
     THE UTULIZATION OF GITHUB AND GITHUB ACTION
 GitHub serves as a central repository for the application's source code, facilitating collaborative development and version control.
