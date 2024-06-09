@@ -40,6 +40,7 @@ When users open Tamagotchi App they will see this screen, this image is the imag
 ## EXAMPLE CODE
 
 ```
+0. my mom loves me
 string name = string.empty;
 var listOfHumans = new List<string>();
 ```
